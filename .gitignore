@@ -1,0 +1,6 @@
+*.csv
+*.json
+*.ndjson
+
+# MacOS
+/.DS_Store
